@@ -9,3 +9,5 @@ $ git commit --allow-empty -m "Initialization"
 $ git pull
 
 $ git push
+
+https://www.themoviedb.org/settings/api
